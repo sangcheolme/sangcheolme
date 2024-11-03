@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sangcheolme, a passionate backend developer with a strong foundation in **Java** and **Spring Framework**.
+- 👀 I’m interested in **e-commerce systems**, **large-scale data processing**, and **API optimization**.
+- 🌱 I’m currently learning advanced techniques in **Spring Boot**, **database optimization** with **JPA** and **Querydsl**, and diving into **distributed systems** using **Kafka** and **RabbitMQ**.
+- 💞️ I’m looking to collaborate on open-source projects that focus on backend scalability, efficient data handling, or innovative e-commerce solutions.
+- 📫 How to reach me: Feel free to reach out via [scpark0698@gmail.com](mailto:scpark0698@gmail.com) or check out my [Velog blog](https://velog.io/@sangcheol_/posts) for more of my learning journey!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’ve taken countless courses on **Inflearn** and **Udemy** to continually improve my skills—learning is my superpower!
